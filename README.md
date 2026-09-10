@@ -1,6 +1,4 @@
-# Nauman Masood
-
-### Senior Software Engineer · AI Agents · Data Platforms · Shopify Development
+![Nauman Masood | Senior Software Engineer | AI agents, data platforms, Shopify development](assets/header.svg)
 
 I architect business data platforms, build AI agents, and engineer the applications businesses run on. My work connects the interface, the business logic, and the infrastructure underneath.
 
@@ -15,13 +13,13 @@ I currently work full-time at **Framar**, following a full-time engineering role
 - **Shopify and business applications:** storefront architecture, catalog readiness, distributor ordering, inventory, invoicing, and customer operations.
 - **Engineering teams:** architecture, implementation planning, code reviews, and hands-on delivery.
 
-## Engineering toolkit
+## Tools I work with
 
 **Languages:** TypeScript, JavaScript, Python, SQL, Liquid  
 **Applications:** React, Node.js, GraphQL, PostgreSQL  
 **Platforms:** Shopify, AWS, Snowflake
 
-## Selected open-source projects
+## Explore the engineering
 
 | Project | Engineering focus |
 | --- | --- |
@@ -30,4 +28,6 @@ I currently work full-time at **Framar**, following a full-time engineering role
 | [Design-to-Web Agent Lab](https://github.com/nsdmalik/design-to-web-agent-lab) | Design planning, implementation, validation, and bounded repair in a practical agent workflow. |
 | [B2B Ordering Portal](https://github.com/nsdmalik/b2b-ordering-portal) | Regional pricing, buyer access, case-pack rules, and revision-aware preorders. |
 
-Each project includes runnable code, tests, and documentation. These are independent public implementations with fictional examples. Explore the broader work behind my career at [nsdmalik.dev](https://nsdmalik.dev).
+These newly published, independent implementations make the engineering approachable: runnable examples, explicit design decisions, and automated tests. They use fictional data.
+
+**For the broader picture:** [Professional work and case studies →](https://nsdmalik.dev)
