@@ -21,8 +21,13 @@ I currently work full-time at **Framar**, following a full-time engineering role
 **Applications:** React, Node.js, GraphQL, PostgreSQL  
 **Platforms:** Shopify, AWS, Snowflake
 
-## Public work
+## Selected open-source projects
 
-I'm building independent open-source tools around catalog quality, data correctness, and practical AI workflows. Each repository is a separate public implementation with its own examples and documentation.
+| Project | Engineering focus |
+| --- | --- |
+| [Shopify Catalog Readiness](https://github.com/nsdmalik/shopify-catalog-readiness) | Explainable catalog audits, field-level findings, GTIN validation, and CI quality gates. |
+| [Pipeline Reconciliation Kit](https://github.com/nsdmalik/pipeline-reconciliation-kit) | Transactional ingestion, late data, idempotent retries, and verified deletion reconciliation. |
+| [Design-to-Web Agent Lab](https://github.com/nsdmalik/design-to-web-agent-lab) | Design planning, implementation, validation, and bounded repair in a practical agent workflow. |
+| [B2B Ordering Portal](https://github.com/nsdmalik/b2b-ordering-portal) | Regional pricing, buyer access, case-pack rules, and revision-aware preorders. |
 
-My professional projects are described on [nsdmalik.dev](https://nsdmalik.dev).
+Each project includes runnable code, tests, and documentation. These are independent public implementations with fictional examples. Explore the broader work behind my career at [nsdmalik.dev](https://nsdmalik.dev).
