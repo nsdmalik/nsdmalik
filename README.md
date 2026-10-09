@@ -25,7 +25,8 @@ These are independent, runnable implementations with fictional data. They are se
 - **Frontend leadership:** component architecture, implementation planning, code reviews, performance work and localized storefronts.
 - **Data and applied AI:** custom ingestion pipelines, historical reconciliation, conversational analytics, and agents for design and website development workflows.
 
-**Core stack:** React, TypeScript, JavaScript, Node.js, PostgreSQL, SQL, Liquid and Shopify.  
+**Core stack:** React, TypeScript, JavaScript, Node.js, PostgreSQL, SQL, Liquid and Shopify.
+
 **Data and infrastructure:** Python, AWS and Snowflake.
 
 Separately, my independent Shopify consulting spans more than 1,000 stores and over 900 clients, including integrations and migrations to Shopify Plus.
